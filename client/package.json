@@ -1,0 +1,20 @@
+{
+  "name": "project-parklji-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.7.2",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  },
+  "scripts": {
+    "start": "cd Client && webpack && cd .. && node app.js"
+  },
+  "author": "Antonio Jelic",
+  "license": "ISC"
+}
