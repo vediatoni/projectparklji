@@ -1,4 +1,3 @@
-#Server
 uSockets/context.o
 uSockets/epoll_kqueue.o
 uSockets/gcd.o

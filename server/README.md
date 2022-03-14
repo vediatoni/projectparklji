@@ -1,5 +1,3 @@
----
-
 ## Info/Guide
 
 This is the repository for a brand new multiplayer online game by Antonio Jelic.
