@@ -8,3 +8,4 @@ uSockets/ssl.o
 uSockets/uSockets.a
 
 *.o
+*.gch
