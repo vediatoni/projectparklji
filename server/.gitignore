@@ -1,4 +1,4 @@
-Server
+#Server
 uSockets/context.o
 uSockets/epoll_kqueue.o
 uSockets/gcd.o
@@ -7,3 +7,5 @@ uSockets/libuv.o
 uSockets/socket.o
 uSockets/ssl.o
 uSockets/uSockets.a
+
+*.o
